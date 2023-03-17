@@ -1,3 +1,9 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
 .cabeçalho {
     background-color: aquamarine;
     color:white;
@@ -10,4 +16,11 @@
 
 .cabeçalho-imagem {
     width: 10%;
+}
+
+.cabeçalho-lista-item {
+display: inline-block;
+margin: 0 16px;
+font-size: 24px;
+font-family: 'Courier New', Courier, monospace;
 }
