@@ -24,3 +24,12 @@ margin: 0 16px;
 font-size: 24px;
 font-family: 'Courier New', Courier, monospace;
 }
+
+
+.turma{
+    background-image: linear-gradient(aquamarine, rgb(0, 117, 78));
+    color: rgb(25, 0, 255);
+}
+.turma-imagem{
+  width: 25%;
+}
