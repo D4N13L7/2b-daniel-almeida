@@ -29,6 +29,10 @@ font-family: 'Courier New', Courier, monospace;
 .turma{
     background-image: linear-gradient(aquamarine, rgb(0, 117, 78));
     color: rgb(25, 0, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
 .turma-imagem{
   width: 25%;
